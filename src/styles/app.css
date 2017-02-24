@@ -1,0 +1,63 @@
+.container {
+    width: 80%;
+    margin: auto;
+    position: relative;
+}
+
+.video{
+     width: 80%;
+    float: left;
+}
+
+.sidebar {          
+  width: 20%;
+  float: right;
+}
+
+.box-busca {
+     width: 80%;
+    height: 38px;
+    margin-bottom: 30px;
+    }
+
+.busca {
+    width: 584px;
+    height: 25px;
+    line-height: 30px;
+    padding: 3px;
+    color: #333;
+}
+
+button.btn-busca {
+    width: 66px;
+    height: 35px;
+    border-radius: 0px 2px 2px 0px;
+    background: #f8f8f8;
+    box-shadow: rgba(0, 0, 0, 0.0470588) 0px 1px 0px 0px;
+    font-size: 11px;
+    text-align: center;
+    border: solid 1px #d3d3d3;
+    color: #333;
+}
+
+.video-play{
+	width: 95%;
+	height: 400px;
+}
+
+h1.title-video {
+    font-size: 20px;
+    color: #333;   
+}
+
+.title {    
+    width: 95%;
+}
+
+.description {
+    font-size: 13px;
+    color: #5a5252;
+    width: 95%;
+    border-top: 1px solid #ccc;
+    padding-top: 10px;
+}
