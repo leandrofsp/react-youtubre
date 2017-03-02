@@ -1,3 +1,6 @@
-build/
+src/
 node_modules/
-.log
+debug.log
+.babelrc
+package.json
+webpack.config.js
